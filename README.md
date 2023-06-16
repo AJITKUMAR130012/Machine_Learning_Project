@@ -18,7 +18,7 @@ The machine learning model will process the input and provide an estimated price
 
 [laptop.pdf](https://github.com/AJITKUMAR130012/Machine_Learning_Project/files/11771134/laptop.pdf) <br/>
 
-# Laptop Price Predictor <br />
+# Car Price Predictor <br />
 
 This project is a Car Price Predictor that helps users estimate the price of a car based on its specifications. It utilizes a machine learning model to make predictions.<br />
 
