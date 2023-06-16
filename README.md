@@ -13,6 +13,11 @@ This will start the application, and you should see a local URL in the console. 
 In the web interface, you will be presented with a form where you can enter the specifications of a laptop, such as its brand, screen size, CPU, RAM, storage, and GPU. Fill in the required details and click the "Predict" button. <br />
 The machine learning model will process the input and provide an estimated price for the laptop based on the provided specifications.<br/>
 
+## Demo <br/>
+
+
+[laptop.pdf](https://github.com/AJITKUMAR130012/Machine_Learning_Project/files/11771134/laptop.pdf)
+
 
 
 
