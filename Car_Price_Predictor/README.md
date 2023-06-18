@@ -11,7 +11,7 @@ pip install -r requirements.txt <br />
 streamlit run app.py <br/>
 <br/>
 This will start the application, and you should see a local URL in the console. Open the provided URL in your web browser to access the Car Price Predictor interface. <br />
-## Step 3: Predict Laptop Prices <br/>
+## Step 3: Predict Car Prices <br/>
 In the web interface, you will be presented with a form where you can enter the specifications of a car, such as its Car Name, brand, current year, kilometer and fuel type. Fill in the required details and click the "Predict" button. <br />
 The machine learning model will process the input and provide an estimated price for the car based on the provided specifications.<br/>
 
