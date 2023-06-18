@@ -9,7 +9,7 @@ pip install -r requirements.txt <br />
 streamlit run app.py <br/>
 <br/>
 This will start the application, and you should see a local URL in the console. Open the provided URL in your web browser to access the Email/SMS Spam Classifier interface. <br />
-## Step 3: Predict Laptop Prices <br/>
+## Step 3: Classifier Prediction <br/>
 In the web interface, you will be presented with a form where you can enter the text/email message and click the "Predict" button. <br />
 The machine learning model will process the input and provide an message to user that it is Spam or NotSpam.<br/>
 
