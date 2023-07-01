@@ -13,11 +13,11 @@ pip install -r requirements.txt <br />
 
 ## Step 3: Unzip the file <br/>
 unzip similarity.pkl.zip    <br/>
-## Step 3: Run the Application <br/>
+## Step 4: Run the Application <br/>
 streamlit run main.py <br/>
 <br/>
 This will start the application, and you should see a local URL in the console. Open the provided URL in your web browser to access the Movie Recommendation System interface. <br />
-## Step 3: Recommend the movie <br/>
+## Step 5: Recommend the movie <br/>
 In the web interface, you will be presented with a form where you can select the movie of your choice. And then click the "Recommend" button. <br />
 The machine learning model will process the input and provide five similar movie to selected movie.<br/>
 
